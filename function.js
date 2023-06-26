@@ -1,1 +1,3 @@
-console.log("Tugas Berhasil!");
+function print() {
+  console.log("Tugas Berhasil!");
+}
